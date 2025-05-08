@@ -14,9 +14,9 @@ This project leverages Natural Language Processing (NLP) to bridge the gap betwe
 
 🚀 Why This Project?
 
-* Data-Driven Decision-Making:** Convert unstructured data into actionable insights for more informed decision-making.
-* Healthcare Automation:** Minimize manual data processing to save time and reduce human error.
-* Improved Patient Care:** Enable clinicians to quickly access relevant patient information and make data-driven clinical decisions.
+* Data-Driven Decision-Making: Convert unstructured data into actionable insights for more informed decision-making.
+* Healthcare Automation: Minimize manual data processing to save time and reduce human error.
+* Improved Patient Care: Enable clinicians to quickly access relevant patient information and make data-driven clinical decisions.
 
 🔧 Technologies and Tools Used
 
